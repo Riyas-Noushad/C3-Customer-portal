@@ -1,5 +1,6 @@
 # C3 Customer Portal  
 <!-- TOC -->  
 
-* [Dashboard](/docs/dashboard.md)  
+* [Dashboard](/doc/dashboard.md)  
+
 
