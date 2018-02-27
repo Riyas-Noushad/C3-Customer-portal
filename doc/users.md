@@ -30,7 +30,7 @@ In case you want to add multiple users in a single go, you can use this section 
 * Instructions to download & fill users details in .csv file are also mentioned on the portal.  
 * Upload the .csv file and select the usage location for users.  
 * Click on **SUBMIT** button to finish the process.  
-* In case of any error regarding .csv file, you will get the details after submission of .csv file.  
+* In case of any error regarding .csv file, you will get the details after submission.  
 * Fix the errors if any and reupload the file.  
 * You can't add users from differnt locations at a single point of time. You need to follow the same process for all users from different locations.  
 
