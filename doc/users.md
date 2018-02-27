@@ -18,7 +18,7 @@ You will be able to view all your users here and you can perform various actions
 ### Add User  
 You can use this to add new user to your Office365 tenant.  
 * Click on **Add New User** button in the customer listing view.  
-* Enter the details on the required fields as shown in screenshot attached.  
+* Enter the details on the required fields.  
 * select the usage location from the droapdown.
 * Click on **SUBMIT**.
 * Newly added user will be visible under **Users** section.
