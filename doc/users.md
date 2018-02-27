@@ -36,10 +36,11 @@ In case you want to add multiple users in a single go, you can use this section 
 
 
 ### Edit User Details  
-* You will be able to update any existing user details.  
+* You can use this option to update any existing user details such as user's first name, last name, display name & email adress.  
 * In user listing view you will be able to see the **Actions** column.  
 * click on the third button **Edit user details** for the particular user.  
-* update the details and click on **UPDATE** button.  
+* Make the required changes and click on **UPDATE** button.  
+* Now, you will be able to see the updated details for that user.
 
 ### License Management  
 * You will be able to manage licenses for your users.  
