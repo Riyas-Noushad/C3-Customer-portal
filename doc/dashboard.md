@@ -10,6 +10,7 @@
 * [Invoice Details](/doc/dashboard.md#invoice-details)  
     
 <!-- TOC -->
+### Dashboard  
 
 ### License Subscriptions   
 
