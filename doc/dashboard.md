@@ -20,7 +20,7 @@ Under this tile, you can find the count of License based subscriptions you have 
 You will see count of  all your purchased Azure subscription & you can use this tile to manage them as per your requirement. 
 
 ### Users  
-It will show you number of users available under your Office365 tenant. Using this tile, you will be able to see all available users & you can perform various action related to user management from using this tile. 
+It will show you number of users available under your Office365 tenant. Using this tile, you will be able to see all users related information & you can perform various action related to user management here.
 
 ### Current Azure Usage  
 You can gather information related to Azure usage price of your current billing period and it will lead you to the detailed pricing report for your azure usage as well.  
