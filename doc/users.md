@@ -43,13 +43,15 @@ You will be able to view all your users here and you can perform various actions
 * You will be able to manage licenses for your users.  
 * Click on **Licenses** button in the **Actions** column for the required user.  
 * Here you can see the list of your purchased subscriptions with the summary.   
-* You are able to assign or revoke a license for the particular subscription to or from the user.  
+* You will be able to assign or revoke a license for the particular subscription to or from the user.  
 * For assigning the license check the box near to the subscription.  
 * For revoking the license uncheck the box near to the subscription.  
 * Click on **SUBMIT**.  
 
 ### Reset Password  
-
+* You will be able  to reset the password for users.  
+* click on **Reset Passsword** button in the **Actions** column for the required user.  
+* 
 ### Grant Access to Portal  
 
 ### Revoke Access from Portal  
