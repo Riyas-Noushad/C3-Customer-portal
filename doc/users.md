@@ -36,25 +36,29 @@ In case you want to add multiple users in a single go, you can use this section 
 
 
 ### Edit User Details  
-* You can use this option to update any existing user details such as user's first name, last name, display name & email adress.  
-* In user listing view you will be able to see the **Actions** column.  
+* You can use this option to update any existing user or newly created details such as user's first name, last name, display name & email address.  
+* In user listing view, you will find the **Actions** column.  
 * click on the third button **Edit user details** for the particular user.  
 * Make the required changes and click on **UPDATE** button.  
 * Now, you will be able to see the updated details for that user.
 
 ### License Management  
-* You will be able to manage licenses for your users.  
-* Click on **Licenses** button in the **Actions** column for the required user.  
-* Here you can see the list of your purchased subscriptions with the summary.   
+* Use this  to manage licenses for your users.  
+* Click on **Licenses** button available in the **Actions** column for the required user.  
+* Here you can see the list of your purchased subscriptions as well as license assignment details with the summary.   
 * You will be able to assign or revoke a license for the particular subscription to or from the user.  
-* For assigning the license check the box near to the subscription.  
-* For revoking the license uncheck the box near to the subscription.  
-* Click on **SUBMIT**.  
+* Check the box near to the subscription in order to assign the license to particular user.  
+* Similary, uncheck the same box for revoking the license.  
+* Click on **SUBMIT** to update the recently made change regarding license management for a particular user.  
 
 ### Reset Password  
-* You will be able  to reset the password for users.  
+In case any user forget his/her password. You can reset it from using this feature.  
 * click on **Reset Passsword** button in the **Actions** column for the required user.  
-* 
+* You will get a pop with two options: **Auto-generate Password** & **Custom Password**.
+* Use **Auto-generate Password** in case you want new password to be system generated password.
+* You can reset new password of your own choice by using **Custom Password**. Once you chose this option, you will get the option to fill up new password detail.
+* Click on **OK** to finish the password reset process.
+* New password information will be sent to email address you have used to login to this portal.
 ### Grant Access to Portal  
 
 ### Revoke Access from Portal  
