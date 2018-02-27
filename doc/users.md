@@ -60,7 +60,7 @@ In case any user forget his/her password. You can reset it from using this featu
 * Click on **OK** to finish the password reset process.
 * New password information will be sent to email address you have used to login to this portal.
 ### Grant Access to Portal  
-* You can use also assign access to C3 portal to any other user of your organization using this feature.
+You can use also assign access to C3 portal to any other user of your organization using this feature.
 * Please click on Fourth item availble in **Actions** column in front of the required user.
 * After clicking on it, portal will give you option to select the **Role** for that user. You can select any of them as per your requirement.
 * You can get information regarding the **Role** by moving the cursor to **i** available in front of each role.
