@@ -52,7 +52,7 @@ In case you want to add multiple users in a single go, you can use this section 
 * Click on **SUBMIT** to update the recently made change regarding license management for a particular user.  
 
 ### Reset Password  
-In case any user forget his/her password. You can reset it from using this feature.  
+In case you want to reset the password for any user, You can do it by using this feature.  
 * click on **Reset Passsword** button in the **Actions** column for the required user.  
 * You will get a pop with two options: **Auto-generate Password** & **Custom Password**.
 * Use **Auto-generate Password** in case you want new password to be system generated password.
