@@ -17,10 +17,10 @@ This is home page of C3 portal which will give you overview as well as access to
 Under this tile, you can find the count of License based subscriptions you have purhcased. In one click, it will redirect you to the subscription listing view where you can manage your subscriptions.  
 
 ### Azure Subscriptions  
-You can use this tile to get all information about your purchased Azure subscription & you can manage them as per your requirement. 
+You will see count of  all your purchased Azure subscription & you can use this tile to manage them as per your requirement. 
 
 ### Users  
-Using this tile, you will be able to see all available users under your Office365 tenant & you can perform various action related to user management from using this tile. 
+It will show you number of users available under your Office365 tenant. Using this tile, you will be able to see all available users & you can perform various action related to user management from using this tile. 
 
 ### Current Azure Usage  
 You can gather information related to Azure usage price of your current billing period and it will lead you to the detailed pricing report for your azure usage as well.  
