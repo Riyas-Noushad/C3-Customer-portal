@@ -13,24 +13,26 @@
 <!-- TOC -->
 
 ### Users  
-You will be able to view all your users here and you can perform various actions as the part of user management.  
+You will be able to view all your users here and you can perform various actions as the part of user management which are as follows:   
 
 ### Add User  
+You can use this to add new user to your Office365 tenant.  
 * Click on **Add New User** button in the customer listing view.  
-* Enter the details on the required fields.  
+* Enter the details on the required fields as shown in screenshot attached.  
 * select the usage location from the droapdown.
 * Click on **SUBMIT**.
+* Newly added user will be visible under **Users** section.
 
 ### Bulk User Upload  
-* For adding multiple users together you can use this option.  
-* Click on **Multiple User Upload** button in the user listing view. 
-* From here you can upload a .csv file with your user details.  
-* You can find the instructions in the screen to create the .csv file. Also you will be able to download sample .csv file.  
-* Upload the file and select the usage location for users.  
-* Click on **SUBMIT** button.  
-* If any erros in the uploaded file you will get the details after submitting the details.  
-* fix the errors if any and reupload the file.  
-* You can't add users from differnt locations at a single time.  
+In case you want to add multiple users in a single go, you can use this section for the same.  Please follow the instrcutions mentioned below:    
+* Click on **MULTIPLE USER UPLOAD** button in the user listing view. 
+* You can upload a .csv file filled with your user details from here.  
+* Instructions to download & fill users details in .csv file are also mentioned on the portal.  
+* Upload the .csv file and select the usage location for users.  
+* Click on **SUBMIT** button to finish the process.  
+* In case of any error regarding .csv file, you will get the details after submission of .csv file.  
+* Fix the errors if any and reupload the file.  
+* You can't add users from differnt locations at a single point of time. You need to follow the same process for all users from different locations.  
 
 
 ### Edit User Details  
