@@ -16,7 +16,7 @@
 You will be able to view all your users here and you can perform various actions as the part of user management.  
 
 ### Add User  
-For adding a new user, you can click on **Add New User** button it will redirected you to the new view from there you can fill the details and create a user.  
+For adding a new user, you can click on **Add New User** button it will redirected you to the new view from there, you can fill the details and create a user.  
 
 ### Bulk User Upload  
 * For adding multiple users together you can use this option.  
@@ -31,6 +31,10 @@ For adding a new user, you can click on **Add New User** button it will redirect
 
 
 ### Edit User Details  
+* You will be able to update any existing user details.  
+* In user listing view you will be able to see the **Actions** column.  
+* click on the third button **Edit user details** for the particular user.  
+* update the details and click on **UPDATE** button.  
 
 ### License Management  
 
