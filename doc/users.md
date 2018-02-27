@@ -13,7 +13,7 @@
 <!-- TOC -->
 
 ### Users  
-
+You will be able to view all your users here and you can perform various actions as the part of user management.
 
 ### Add User  
 
