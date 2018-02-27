@@ -29,5 +29,5 @@ Here you can find the Azure usage price of the current billing period and it lea
 From this tile you can login to the Office 365 portal.  
 
 ### Invoice Details  
-
+If any invoice is generated in the current billing period you can find the brief details as a strip below the dashborad.  
 
