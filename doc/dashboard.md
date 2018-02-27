@@ -14,20 +14,20 @@
 This is home page of C3 portal which will give you overview as well as access to different features of this portal which are as follows.  
 
 ### License Subscriptions   
-In this tile, you can find the count of License based subscriptions you have. while clicking on the tile redirect you to the subscription listing view where you can manage your subscriptions.  
+Under this tile, you can find the count of License based subscriptions you have purhcased. In one click, it will redirect you to the subscription listing view where you can manage your subscriptions.  
 
 ### Azure Subscriptions  
-Here you can find the number of Azure subscriptions you have and while clicking on that you will redirected to the Azure subscription listing where you can mange your Azure subscriptions.  
+You can use this tile to get all information about your purchased Azure subscription & you can manage them as per your requirement. 
 
 ### Users  
-In this tile, you can find the count of users you have and it lesds to the user listing view where you can do the activites related to user managemnt.  
+Using this tile, you will be able to see all available users under your Office365 tenant & you can perform various action related to user management from using this tile. 
 
 ### Current Azure Usage  
-Here you can find the Azure usage price of the current billing period and it leads to the detailed pricing report for your azure usage.  
+You can gather information related to Azure usage price of your current billing period and it will lead you to the detailed pricing report for your azure usage as well.  
 
 ### Office 365  
-From this tile you can login to the Office 365 portal.  
+You will get access to Office365 admin portal directly using this link .  
 
 ### Invoice Details  
-If any invoice is generated in the current billing period you can find the brief details as a strip below the dashborad.  
+In case any invoice is generated for the current billing period, you can find the brief details about it as a strip below the dashborad.  
 
