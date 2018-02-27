@@ -36,14 +36,14 @@ In case you want to add multiple users in a single go, you can use this section 
 
 
 ### Edit User Details  
-* You can use this option to update any existing user or newly created details such as user's first name, last name, display name & email address.  
+You can use this option to update any existing user or newly created details such as user's first name, last name, display name & email address.  
 * In user listing view, you will find the **Actions** column.  
 * click on the third button **Edit user details** for the particular user.  
 * Make the required changes and click on **UPDATE** button.  
-* Now, you will be able to see the updated details for that user.
+* Now, you will be able to see the updated details for that particular user.
 
 ### License Management  
-* Use this  to manage licenses for your users.  
+Use this  to manage licenses for your users.  
 * Click on **Licenses** button available in the **Actions** column for the required user.  
 * Here you can see the list of your purchased subscriptions as well as license assignment details with the summary.   
 * You will be able to assign or revoke a license for the particular subscription to or from the user.  
@@ -52,7 +52,7 @@ In case you want to add multiple users in a single go, you can use this section 
 * Click on **SUBMIT** to update the recently made change regarding license management for a particular user.  
 
 ### Reset Password  
-In case you want to reset the password for any user, You can do it by using this feature.  
+In case you want to reset the password for any user, you can do so by using this portal.  
 * click on **Reset Passsword** button in the **Actions** column for the required user.  
 * You will get a pop with two options: **Auto-generate Password** & **Custom Password**.
 * Use **Auto-generate Password** in case you want new password to be system generated password.
@@ -60,14 +60,14 @@ In case you want to reset the password for any user, You can do it by using this
 * Click on **OK** to finish the password reset process.
 * New password information will be sent to email address you have used to login to this portal.
 ### Grant Access to Portal  
-You can use also assign access to C3 portal to any other user of your organization using this feature.
+You can use also assign access to C3 portal to any other user of your organization by following the below mentioned instructions:
 * Please click on Fourth item availble in **Actions** column in front of the required user.
 * After clicking on it, portal will give you option to select the **Role** for that user. You can select any of them as per your requirement.
 * You can get information regarding the **Role** by moving the cursor to **i** available in front of each role.
 * Once this is done, access with selected role to the C3 portal will be given to the required user & they will be able to login to C3 portal using their Office365 account credentials.
 
 ### Revoke Access from Portal  
-You can also revoke the portal access permission from any allowed user.
+You can also revoke the portal access permission from any already permitted user.
 * You will find fourth item (red cross symbol) in **Actions** column for already granted users.
 * Click on it to revoke the C3 portal access permission from that particular user.
 * Once this is done, you will get a pop-up regarding the confirmation about the same.
