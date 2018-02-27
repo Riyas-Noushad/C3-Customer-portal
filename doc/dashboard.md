@@ -2,8 +2,10 @@
 # Dashboard  
 <!-- TOC -->
 
-* [License Subscriptions](/docs/dashboard.md#subscriptions)  
+* [License Subscriptions](/doc/dashboard.md#license-subscriptions)  
 
  
     
 <!-- TOC -->
+
+## License Subscriptions  
