@@ -38,7 +38,7 @@ In case you want to add multiple users in a single go, you can use this section 
 ### Edit User Details  
 You can use this option to update any existing user or newly created details such as user's first name, last name, display name & email address.  
 * In user listing view, you will find the **Actions** column.  
-* click on the third button **Edit user details** for the particular user.  
+* click on the **Edit user details** button for the particular user.  
 * Make the required changes and click on **UPDATE** button.  
 * Now, you will be able to see the updated details for that particular user.
 
