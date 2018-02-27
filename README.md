@@ -2,5 +2,6 @@
 <!-- TOC -->  
 
 * [Dashboard](/doc/dashboard.md)  
+* [Users](/doc/users.md)  
 
 
