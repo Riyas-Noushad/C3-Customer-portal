@@ -10,7 +10,7 @@
 
 ### Subscriptions  
 Here you can see your purchased subscriptions in a grid with the following details.  
-* Name      - Subscription name  
-* Quantity  - The number of quantity you have for a particular subscription  
-* Cost      - The cost of a particular subscription    
-* Total     - It is the total cost for the particular subscription  
+* Name      - It represents your purchased subscription 
+* Quantity  - Here, you will see number of quantity you have purchased for a particular subscription  
+* Cost      - It stands for the unit price for a particular subscription.    
+* Total     - It is total cost for each purchased subscription.  
